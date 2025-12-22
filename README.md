@@ -7,4 +7,4 @@
 - Gulp,
 - JS
 
-[Смотреть демо](https://webcademy.githab.io/modimal/)
+[Смотреть демо](https://fightstar41111-a11y.github.io/modimal/#!)
